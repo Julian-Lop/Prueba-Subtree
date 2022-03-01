@@ -1,1 +1,1 @@
-Hola, aquí voy a hacer la prueba del Git Subtree.
+Hola, aquí voy a hacer la prueba del Git Submodule.
